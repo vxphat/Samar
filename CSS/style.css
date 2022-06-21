@@ -100,7 +100,7 @@ nav {
     display: flex;
     align-items: center;
 }
-.header__content i{
+.header__content nav i{
     font-size: 9px;
     margin-right: -3px;
     vertical-align: middle;
@@ -111,9 +111,6 @@ nav {
     font-weight: 500;
     color: #070120;
 }
-
-
-
 .header__content li span {
     display: inline-block;
     transition: all 1s;
