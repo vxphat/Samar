@@ -526,6 +526,9 @@ nav {
     transition: all 0.75s;
     opacity: 0;
 }
+.portfolio__item .portfolio__icon i:hover{
+    background-position: right center;
+}
 
 .portfolio__item:hover .portfolio__icon i {
     transform: translate(0);
